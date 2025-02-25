@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ai-studio
+
+server:
+  port: 6666
